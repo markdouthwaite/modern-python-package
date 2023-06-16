@@ -6,11 +6,12 @@
 Welcome to Minimal Python Package's documentation!
 ==================================================
 
+.. automodule:: my_project.main
+    :members:
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
 
 Indices and tables
 ==================
