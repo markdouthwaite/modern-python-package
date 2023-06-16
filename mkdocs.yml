@@ -1,1 +1,8 @@
-site_name: Modern Python Package
+site_name: Modern Python 
+repo_name: markdouthwaite/modern-python-package
+repo_url: https://github.com/markdouthwaite/modern-python-package
+
+nav:
+  - Introduction: 'index.md'
+
+copyright: Copyright &copy; Mark Douthwaite
