@@ -12,7 +12,6 @@ requires-python = ">=3.9"
 dynamic = ["version", "description"]
 dependencies = []
 
-
 [project.optional-dependencies]
 test = []
 dev = ["pre-commit>=3.0.0"]
