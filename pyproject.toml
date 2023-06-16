@@ -15,7 +15,7 @@ dependencies = []
 [project.optional-dependencies]
 test = []
 dev = ["pre-commit>=3.0.0"]
-doc = ["mkdocs"]
+doc = ["mkdocs-material"]
 
 [tool.isort]
 profile = "black"

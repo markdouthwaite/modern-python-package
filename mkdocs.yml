@@ -5,4 +5,7 @@ repo_url: https://github.com/markdouthwaite/modern-python-package
 nav:
   - Introduction: 'index.md'
 
+theme:
+    name: material
+
 copyright: Copyright &copy; Mark Douthwaite
