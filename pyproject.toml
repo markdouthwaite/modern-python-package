@@ -13,7 +13,7 @@ dynamic = ["version", "description"]
 dependencies = []
 
 [project.optional-dependencies]
-test = []
+test = ["pytest"]
 dev = ["pre-commit>=3.0.0"]
 doc = ["mkdocs-material"]
 
