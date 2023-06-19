@@ -27,7 +27,7 @@ jobs:
         python -m pip install .[dev,test]
     - name: Run pre-commit checks
       run: |
-        # stop the build if there are Python syntax errors or undefined names
+        # check that the code conforms to the given standards
         pre-commit run --all-files
     - name: Test with pytest
       run: |
